@@ -1,4 +1,4 @@
-###Ejercicios IF Estructuras de control de flujo
+Ejercicios IF Estructuras de control de flujo
 
 - Ejercicios vistos en clase:
 -  Lenguaje JavaScript
